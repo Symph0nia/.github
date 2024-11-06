@@ -6,7 +6,7 @@
 
 在Symph0nia组织，我们开发了一系列实用的安全工具，以下是一些主要项目的介绍：
 
-### 1. [CyberEdge](https://github.com/Symph0nia/CyberEdge)
+### 1. [CyberEdge](https://github.com/Symph0nia/CyberEdge)（嗨！看看这个！）
 - **描述**：CyberEdge是一个攻击面刻画工具，用Go语言编写，旨在快速、全面地对目标进行攻击面的分析和刻画。
 - **功能**：自动化收集目标信息，识别潜在的攻击面，帮助用户制定有效的安全策略。
 
